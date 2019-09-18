@@ -1,0 +1,30 @@
+{
+  "name": "hexo-tag-include",
+  "version": "0.0.1",
+  "description": "Include another post or page to a post or page as wiki does.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dailylist/hexo-tag-include.git"
+  },
+  "keywords": [
+    "hexo",
+    "blog",
+    "tag",
+    "wiki",
+    "include",
+    "insert"
+  ],
+  "author": "dailylist <shenmark201401@gmail.com> (https://github.com/dailylist)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dailylist/hexo-tag-include/issues"
+  },
+  "homepage": "https://github.com/dailylist/hexo-tag-include#readme",
+  "dependencies": {
+    "escape-html": "^1.0.3"
+  }
+}
